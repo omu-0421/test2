@@ -1,0 +1,22 @@
+body{
+    background-image: url("img/cafeimage.jpg");
+    background-size: cover;
+    background-color: antiquewhite;
+}
+
+h1{
+    color: cornsilk;
+    font-family: 'Palatino Linotype',sans-serif;
+    border-bottom: 3px dashed cornsilk;
+    display: inline;
+}
+
+
+.about {
+    color: cornsilk;
+}
+
+.about a{
+
+    color: black;
+}
