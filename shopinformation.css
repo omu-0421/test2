@@ -4,6 +4,15 @@ body{
     background-color: antiquewhite;
 }
 
+.navi a{
+      color: cornsilk;
+      font-family: 'Palatino Linotype',sans-serif;
+}
+.navi {
+      color: cornsilk;
+}
+
+
 h1{
     color: cornsilk;
     font-family: 'Palatino Linotype',sans-serif;
